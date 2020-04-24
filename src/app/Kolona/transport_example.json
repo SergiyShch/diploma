@@ -1,0 +1,12 @@
+[
+  {"marka":"УАЗ-315195", "v":60, "m":0, "pas":7, "ob":0, "pal":14, "typePal":"A-92", "zh":1500, "tpr":27, "tvid":3},
+  {"marka":"УАЗ-315195", "v":60, "m":0, "pas":7, "ob":0, "pal":14, "typePal":"A-92", "zh":2500, "tpr":30, "tvid":0},
+  {"marka":"ВАЗ-21230", "v":70, "m":0, "pas":5, "ob":0, "pal":14, "typePal":"A-95", "zh":2500, "tpr":29, "tvid":1},
+  {"marka":"ВАЗ-21230", "v":70, "m":0, "pas":5, "ob":0, "pal":11, "typePal":"A-95", "zh":3500, "tpr":25, "tvid":5},
+  {"marka":"Land Rover", "v":60, "m":5, "pas":5, "ob":1, "pal":12, "typePal":"ДП", "zh":3800, "tpr":28, "tvid":2},
+  {"marka":"Volkswagen Am", "v":70, "m":12, "pas":5, "ob":3, "pal":10, "typePal":"A-95", "zh":3800, "tpr":29, "tvid":1},
+  {"marka":"Volkswagen Am", "v":70, "m":12, "pas":5, "ob":3, "pal":10, "typePal":"A-95", "zh":3200, "tpr":25, "tvid":5},
+  {"marka":"ГАЗ-3307", "v":50, "m":45, "pas":2, "ob":14, "pal":20, "typePal":"A-80", "zh":3200, "tpr":30, "tvid":0},
+  {"marka":"УАЗ-3303", "v":60, "m":10, "pas":2, "ob":8, "pal":18, "typePal":"A-80", "zh":2300, "tpr":29, "tvid":1},
+  {"marka":"КрАЗ-6322", "v":50, "m":100, "pas":3, "ob":25, "pal":40, "typePal":"ДП", "zh":3700, "tpr":27, "tvid":3}
+]

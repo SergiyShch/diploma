@@ -1,0 +1,96 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 20px 20px 20px;
+  font-family: 'Roboto';
+}
+
+.form {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.inner-element {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.marsh-res-container {
+  margin-top: 20px;
+  color: red;
+}
+
+.red-text {
+  color: red;
+}
+
+.button {
+  margin-right: 10px;
+}
+
+.kol-container {
+  border: 2px solid grey;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.marsh-container {
+  border: 2px solid grey;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px 0px;
+}
+
+.resultContainer {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid grey;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.obm-container {
+  display: flex;
+  margin: 10px 0px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.obm-cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 40px;
+}
+
+.text {
+  font-size: 20px;
+}
+
+.btn-group-kolona {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 20px 0px;
+}
+
+.MuiInput-formControl {
+  min-width: 200px;
+}
+
+.kolonaResults {
+  display: flex;
+  flex-direction: column;
+}
