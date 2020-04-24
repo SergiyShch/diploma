@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/diploma/static/css/main.f9f86165.chunk.css",
+    "main.js": "/diploma/static/js/main.36e127e0.chunk.js",
+    "main.js.map": "/diploma/static/js/main.36e127e0.chunk.js.map",
+    "runtime-main.js": "/diploma/static/js/runtime-main.217b6534.js",
+    "runtime-main.js.map": "/diploma/static/js/runtime-main.217b6534.js.map",
+    "static/js/2.0d8d4343.chunk.js": "/diploma/static/js/2.0d8d4343.chunk.js",
+    "static/js/2.0d8d4343.chunk.js.map": "/diploma/static/js/2.0d8d4343.chunk.js.map",
+    "index.html": "/diploma/index.html",
+    "precache-manifest.761b5b2f232cc0d666d194c320cdc994.js": "/diploma/precache-manifest.761b5b2f232cc0d666d194c320cdc994.js",
+    "service-worker.js": "/diploma/service-worker.js",
+    "static/css/main.f9f86165.chunk.css.map": "/diploma/static/css/main.f9f86165.chunk.css.map",
+    "static/js/2.0d8d4343.chunk.js.LICENSE.txt": "/diploma/static/js/2.0d8d4343.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.217b6534.js",
+    "static/js/2.0d8d4343.chunk.js",
+    "static/css/main.f9f86165.chunk.css",
+    "static/js/main.36e127e0.chunk.js"
+  ]
+}
