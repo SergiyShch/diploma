@@ -16,12 +16,11 @@ const getMatrix = (data, prop) => {
 
     data.map(item => {
       if (item.x === top) {
-        let ind = tops.indexOf(item.y);
-        arr[ind] = item[prop];
+         let ind = tops.indexOf(item.y);
+         arr[ind] = item[prop];
       }
-      return '';
     })
-    return matrix.push(arr);
+    matrix.push(arr);
   })
   return matrix;
 }
